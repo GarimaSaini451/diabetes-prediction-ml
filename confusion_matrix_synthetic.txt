@@ -1,0 +1,5 @@
+Confusion matrix on the synthetic dataset's 20% held-out test split:
+[[82 38]
+ [14 20]]
+
+These are software demonstration metrics only; the dataset and labels are synthetic, not clinical evidence.
